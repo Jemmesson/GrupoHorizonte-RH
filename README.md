@@ -1,84 +1,43 @@
-# 📊 Dashboard de Recursos Humanos | Power BI
+Dashboard de Recursos Humanos
 
-## 📌 Sobre o Projeto
+Projeto desenvolvido no Power BI para analisar os principais indicadores de Recursos Humanos de uma empresa fictícia.
 
-Este projeto consiste na criação de um Dashboard de Recursos Humanos desenvolvido no Power BI utilizando uma base de dados fictícia da IBM HR Analytics.
+Este projeto também representa a união entre minha formação em Gestão de Recursos Humanos e os conhecimentos que venho desenvolvendo na área de Dados.
 
-O objetivo é transformar dados de colaboradores em informações estratégicas para apoiar a tomada de decisão, apresentando indicadores de desempenho, perfil dos funcionários, remuneração e retenção de talentos por meio de uma interface intuitiva e organizada.
+Objetivo
 
----
+Transformar dados de funcionários em informações claras que possam apoiar o acompanhamento de pessoas e a tomada de decisões.
 
-## 🎯 Objetivos
+Indicadores analisados
+Total de funcionários;
+Idade média;
+Salário médio;
+Satisfação com o ambiente;
+Taxa de turnover;
+Funcionários desligados;
+Tempo médio de empresa;
+Distribuição por departamento;
+Distribuição por faixa etária;
+Distribuição por gênero cadastrado.
+Etapas do projeto
+Tratamento e transformação dos dados no Power Query;
+Padronização e organização das informações;
+Modelagem de dados;
+Criação de colunas calculadas e medidas em DAX;
+Criação de indicadores e filtros interativos;
+Desenvolvimento e formatação do dashboard.
+Ferramentas utilizadas
+Power BI;
+Power Query;
+DAX;
+Modelagem de dados.
+Resultado
 
-- Analisar o perfil dos colaboradores.
-- Monitorar indicadores de Recursos Humanos.
-- Identificar diferenças salariais entre departamentos.
-- Visualizar a distribuição dos funcionários.
-- Acompanhar indicadores de satisfação e turnover.
-
----
-
-## 🛠️ Ferramentas Utilizadas
-
-- Power BI Desktop
-- Power Query
-- DAX
-- Modelagem de Dados (Esquema Estrela)
-
----
-
-## 📈 Indicadores (KPIs)
-
-- 👥 Total de Funcionários
-- 🎂 Idade Média
-- 💰 Salário Médio
-- 😊 Satisfação do Ambiente
-- ⏳ Tempo Médio de Empresa
-- 📉 Turnover
-
----
-
-## 📊 Visualizações
-
-- Funcionários por Departamento
-- Salário Médio por Departamento
-- Distribuição por Faixa Etária
-- Distribuição por Gênero
-- Tabela Resumo por Departamento
-
----
-
-## 📚 Principais Técnicas Utilizadas
-
-### Power Query
-
-- Limpeza dos dados
-- Tratamento de valores
-- Tradução dos campos
-- Remoção de colunas desnecessárias
-
-### Modelagem
-
-- Organização das tabelas
-- Relacionamentos entre dimensões e fatos
-- Estrutura otimizada para análises
-
-### DAX
-
-Foram utilizadas medidas para cálculo de:
-
-- Total de Funcionários
-- Idade Média
-- Salário Médio
-- Tempo Médio de Empresa
-- Satisfação Média
-- Turnover
-
----
+O dashboard permite analisar o perfil dos funcionários e comparar indicadores entre departamentos, oferecendo uma visão objetiva sobre salários, satisfação, tempo de empresa e turnover.
 
 ## 📷 Dashboard
 
-<img width="1429" height="796" alt="image" src="https://github.com/user-attachments/assets/b029b088-387c-4555-a06e-c210515b2827" />
+<img<img width="1158" height="650" alt="Captura de tela 2026-09-01 115024" src="https://github.com/user-attachments/assets/e6994408-8938-4a1f-99cc-91c350350d18" />
 
 
 ---
